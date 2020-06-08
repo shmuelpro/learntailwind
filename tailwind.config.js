@@ -1,7 +1,12 @@
 module.exports = {
   purge: [],
   theme: {
-    extend: {},
+    extend: {
+      width:{
+        
+        "story":"660px"
+      }
+    },
   },
   variants: {},
   plugins: [],
